@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "apiKey": "AIzaSyAoncHqBd3SAxCRaYYgWkPIACbbLLrN2T8",
+  "project_id": "check-in-out-face-recognition",
+  "private_key_id": "abff66eafe471d93f71c0bc08e9a52a012632280",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTBIt3Wq1hoCNh\n1Jcl2IkGy5fnTjEpRcVNv94JQrZC/SNXvK04WbtZEIN0+qAsBtcB+XkQPuolaSEi\naNWtXV0wpQ0el52loJJq6DVruMAAbmXqtUzU9f6FVckrLI029DVpa53lWiyE3P//\nyg6Qz/I2mYmnoLNSx555ePcgJvc4qrsr7AACmY4auSxK7NKDPD5emjpQe1E8W8VB\nuXMlc1Q38kEhelF9fp0z2bjz8MXJTpIjkQVtXX6cNwbIV0n67zFjxmDO7eXq0+ic\nPP5CPL80IrDiuV4B6dUVM4afHsfSCtczptTXRJjMySqT5gbsmsLZk3ozhMrGOOFo\nJGWfcr/XAgMBAAECggEACHxgzWpwmYHymk8NywBTtlm+oJck4/eB0TgbijzMDpKW\ndsNIJgF5xsGiv7QKd+rIf7RUGYKmMN3y7qrPmPqtsjSY+/d16AC2kqUG7O+PjRTj\ndVZYIiJIW31RKzLN9P1KHpSs01nWe3tVsigigNFT+L0g64RLYdNUPKdQLNNUUst8\nIiKKgzSknjfmFKmx8mK//grCADN/6KaN9nQ+XGEafB0ykqYaOSPM+91BCDfz+ZQ0\niikmJ10fkxpGnUn9GikDAsg0uEhGXbWhsujhs0M3W/i8qHZB38/BYxYunRDuvOQc\nRnpnLSYleK+AtHLaE41BDIKoNKRsthqam4+ZbNKOlQKBgQD4hk30Lz2ES4eo1l5G\nK/f5zUJA1q9vy5+ry8ZyoJi/E16K0U/ZTOdQHHs2W+Sos59b2rNrXbD2T5Xrp0D6\n3Vzz2gfa7TXe7dlWm4wU6wbyGTal7nDZcO8xu9RkgFRMGdghL4ZZ+gYv/TPRdKlW\nyNh1nepKdMFtje71D1yUB5DMLQKBgQDZXW3N4L/Dycz/fbWV/3xgE8Wi1ciRPZi7\nMKv3LpnnWMT9esqPk2yAQ/rPk4gvZD/VvsT++8hqjdJVHNoME+UtYpPhYmACIgk/\nJG3UMyHs2aNGn+GFlF2+zh8aCLAtvK5ZGP5e1e1jDDLEN+dmnh4JQuChN/mtTh0T\nIuYgVDrKkwKBgQDM8Bt6YDZPUOV2kge9v+ZGJUAcLa0P+I8b4PctcUdkUbmlqYM6\nAxPAWSw1oEOH5k9kNI293M3f37MWV57bAA31vHa7zt6cjfCqXax/V2wr2iTZYi3G\n8T0d+vDjS3u4IZu7ifA1ZFsT2a2QbK5ztT3ih607ZtpW2DMT/G3wV+jMpQKBgQC5\nyyRaP+tqHQn+sKMQDYtwTDY4k2eWzgHIrzeuVsTyfGwVBmoyAx9RG8o8t6xGZfgy\naZfVI74RZhwM6FZw0GiqPIKOuhm6eQFSWX8PTI2I+BaZ/Xs1RLZEq8bl59s/nPGh\n8r0qrsz0Rq72DZrbmfeujt2WsFPYENbFTqVJqPV/xQKBgBdjSW5sStuQ0uJzrvCq\nQlKg3kPT6bOC5LLf26ATmg8JNNqVScOTp5GbDnSijLo1JlzMZvI8jzJZI7+iBjPY\n8dN7qK5Ot/6LiE7j3/s8hYH07i+DGDHWTF36N4XJee8FH70dPc4bpdfrbaSeJg/s\nND1ta8OpJ2Mrcevau7mRH6UB\n-----END PRIVATE KEY-----\n",
+  "databaseURL":"https://check-in-out-face-recognition-default-rtdb.firebaseio.com/",
+  "storageBucket":"check-in-out-face-recognition.appspot.com",
+  "client_email": "firebase-adminsdk-x43lm@check-in-out-face-recognition.iam.gserviceaccount.com",
+  "client_id": "111033355314447823970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-x43lm%40check-in-out-face-recognition.iam.gserviceaccount.com"
+}
