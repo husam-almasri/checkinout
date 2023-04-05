@@ -58,7 +58,7 @@ if choice == 'Check in/out':
             report[now] = 'out'
             db.child(employees).child(best_id).child("report").set(report)
             st.info(f"Thanks {name}, you ended your work at: {now}")
-            st.info(f"You worked (total_hours) hours for this month")
+            st.info(f"You worked ({round(total_hours, 3)}) hours for this month")
 ###########################################################################################################################################
 
 ###########################################################################################################################################

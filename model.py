@@ -6,11 +6,12 @@ import streamlit as st
 import numpy as np
 import uuid
 import tensorflow as tf
+from tensorflow import keras
 import h5py
 import io
 ###############################################################################################
 # Siamese L1 Distance class
-from tensorflow.keras.layers import Layer
+from keras.layers import Layer
 class L1Dist(Layer):
 
     # Init method - inheritance
