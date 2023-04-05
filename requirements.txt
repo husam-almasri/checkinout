@@ -1,1 +1,5 @@
-pyrebase==4.5.0
+<<<<<<< HEAD
+pyrebase==3.0.27
+=======
+pyrebase==3.0.27
+>>>>>>> 5e8a7c7b3c8e43c3f41befea040f30a4adf12008
