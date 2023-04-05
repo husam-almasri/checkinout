@@ -1,3 +1,4 @@
 Pyrebase
 Pyrebase4
 jwt
+firebase_admin
