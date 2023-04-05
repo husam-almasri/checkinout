@@ -3,3 +3,4 @@ Pyrebase4
 jwt
 firebase_admin
 opencv-python-headless
+tensorflow
