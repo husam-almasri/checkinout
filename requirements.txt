@@ -1,2 +1,2 @@
-Pyrebase==3.0.27
-Pyrebase4==4.6.0
+Pyrebase
+Pyrebase4
