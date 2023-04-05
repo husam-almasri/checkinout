@@ -1,7 +1,8 @@
-pyrebase>=3.0.0,<4.5.0
-firebase-admin==5.0.1
-opencv-python==4.5.3.56
-streamlit==0.87.0
-numpy==1.19.5
-tensorflow==2.5.0
-h5py==3.1.0
+pyrebase
+firebase-admin
+opencv-python
+streamlit
+numpy
+tensorflow
+h5py
+datetime
