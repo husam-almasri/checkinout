@@ -31,10 +31,10 @@ bucket = storage.bucket(app=firebase_admin.get_app(name=app_name))
 ################################################################################################
 test_model = tf.keras.models.load_model('siamesemodelv5.h5', custom_objects={'L1Dist':L1Dist, 'BinaryCrossentropy':tf.losses.BinaryCrossentropy})
 ################################################################################################
-model_blob = bucket.blob('siamesemodelv5.h5')
-file_bytes = model_blob.download_as_bytes()
-with h5py.File(io.BytesIO(file_bytes), 'r') as f:
-    loaded_model = tf.keras.models.load_model(f, custom_objects={'L1Dist':L1Dist, 'BinaryCrossentropy':tf.losses.BinaryCrossentropy})
+# model_blob = bucket.blob('siamesemodelv5.h5')
+# file_bytes = model_blob.download_as_bytes()
+# with h5py.File(io.BytesIO(file_bytes), 'r') as f:
+#     loaded_model = tf.keras.models.load_model(f, custom_objects={'L1Dist':L1Dist, 'BinaryCrossentropy':tf.losses.BinaryCrossentropy})
 ################################################################################################
 
 def compare_images():
