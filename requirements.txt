@@ -35,7 +35,7 @@ Flask-Compress==1.12
 flatbuffers==2.0
 fonttools==4.29.1
 gast==0.5.3
-gcloud==0.18.3
+gcloud
 gitdb==4.0.10
 GitPython==3.1.31
 google-api-core==2.11.0
