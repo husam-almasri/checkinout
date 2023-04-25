@@ -7,7 +7,7 @@ from model import compare_images
 # A Firebase configuration object that contains various API keys and project IDs that are required to connect to a Firebase project.
 firebaseConfig = {
 # apiKey: This is the API key that is used to authenticate requests made from the client-side (e.g., a web application or a mobile app) to the Firebase project.
-  'apiKey': "AIzaSyAoncHqBd3SAxCRaYYgWkPIACbbLLrN2T8",
+  'apiKey': "",
 # authDomain: This is the domain name that Firebase uses for authentication. This domain name is used to redirect users to the Firebase authentication page when they sign in or sign up for an account.
   'authDomain': "check-in-out-face-recognition.firebaseapp.com",
 # databaseURL: This is the URL of the Firebase Realtime Database. It is used to establish a connection between the client and the Firebase database.
